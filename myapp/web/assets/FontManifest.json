@@ -1,0 +1,27 @@
+[
+    {
+        "family": "MaterialIcons",
+        "fonts" :[
+            {
+                "asset":"font/MaterialIcons.Regular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "MontserratAlternatesBold",
+        "fonts" :[
+            {
+                "asset":"font/MonserratAlternates-Bold.ttf"
+            }
+        ]
+    },
+    {
+        "family": "MontserratAlternatesRegular",
+        "fonts" :[
+            {
+                "asset":"font/MonserratAlternates-Regular.ttf"
+            }
+        ]
+    }
+
+]
